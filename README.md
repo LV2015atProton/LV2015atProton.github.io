@@ -1,3 +1,12 @@
+<!-- Google Scholar meta-tags -->
+  <meta name="citation_title" content="The Pursuit of True Decentralization in Social Media: Failed Attempts">
+  <meta name="citation_author" content="LV">
+  <meta name="citation_author_email" content="LV2015@proton.me">
+  <meta name="citation_publication_date" content="2025/04/20">
+  <meta name="citation_pdf_url" content="https://lv2015atproton.github.io/DecentralizationLV2015atProton.pdf">
+  <meta name="citation_abstract" content="A critical examination of failed decentralization efforts in social media and the philosophical requirements for building truly user-governed platforms.">
+
+
 # The Pursuit of True Decentralization in Social Media so far Failed Attempts
 by LV __ lv2015@proton.me
 
