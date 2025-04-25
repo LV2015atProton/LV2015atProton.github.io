@@ -1,6 +1,4 @@
-# LV2015atProton.github.io
-
-##The Pursuit of True Decentralization in Social Media so far Failed Attempts
+# The Pursuit of True Decentralization in Social Media so far Failed Attempts
 by LV __ lv2015@proton.me
 
 #**Abstract**
