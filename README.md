@@ -6,6 +6,7 @@
   <meta name="citation_pdf_url" content="https://lv2015atproton.github.io/DecentralizationLV2015atProton.pdf">
   <meta name="citation_abstract" content="A critical examination of failed decentralization efforts in social media and the philosophical requirements for building truly user-governed platforms.">
 
+<a href="DecentralizationLV2015atProton.pdf" class="button">Download PDF Version</a>
 
 # The Pursuit of True Decentralization in Social Media so far Failed Attempts
 by LV __ lv2015@proton.me
