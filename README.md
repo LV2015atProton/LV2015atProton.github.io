@@ -1,17 +1,17 @@
 # The Pursuit of True Decentralization in Social Media so far Failed Attempts
 by LV __ lv2015@proton.me
 
-#**Abstract**
+**Abstract**
 
 Despite the proliferation of blockchain technologies and decentralization, social media platforms remain predominantly centralized. Even projects that assert decentralization often retain backend control structures, moderation systems, or foundational leadership that influence narratives and content flow. A truly decentralized social media platform must be governed by its users, with censorship, promotion, and content filtering emerging from consensus rather than central authority. This paper delves into the fundamental principles of decentralized governance in social media, the challenges of implementation, and the philosophical framework necessary for constructing a platform devoid of top-down control.
 
-#**Introduction: Centralized Control in Disguise**
+**Introduction: Centralized Control in Disguise**
 
 Social media governance today is predominantly controlled by algorithms, corporations, and moderators—centralized entities wielding significant influence over speech, reach, and digital identity. While some platforms profess decentralization, they often fall short of the ideal: they may be open-source or employ blockchain technology, but governance structures remain embedded within the founding team or a foundation that retains final authority.
 
 True decentralization transcends mere technical architecture; it represents a philosophical paradigm shift in the governance of online communities.
 
-#**2. What Is True Decentralization?**
+**2. What Is True Decentralization?**
 
 A decentralized social media platform must adhere to the following criteria:
 
@@ -22,23 +22,23 @@ A decentralized social media platform must adhere to the following criteria:
 
 In essence, decentralized social media should resemble a blank page—unwritten by any higher power, waiting for the collective voice of its users to shape its norms.
 
-#**The Myth of Decentralized Moderation:**
+**The Myth of Decentralized Moderation:**
 Existing platforms fail to meet this standard for several reasons:
 
-#* **Founders’ Control:** Even decentralized autonomous organizations (DAOs) often structure token allocations and privileges so that founding teams retain disproportionate influence.
+* **Founders’ Control:** Even decentralized autonomous organizations (DAOs) often structure token allocations and privileges so that founding teams retain disproportionate influence.
 * **Backend Gatekeeping:** Critical infrastructure—node operation, API access, identity services—frequently remains under centralized control.
 * **Censorship Resistance vs. Lawlessness:** The tension between unfiltered expression and legal/ethical obligations drives many projects back to centralized moderation under pressure.
 
 These shortcomings reveal a fundamental truth: decentralization is challenging because it demands that creators relinquish complete control.
 
-#**A Personal Lesson: Why Project X Failed:**
+**A Personal Lesson: Why Project X Failed:**
 In 2015, I launched Project X Open Source, a platform that loudly proclaimed decentralization. However, behind the open-source facade, I retained veto power over content, users, and feature rollouts. Despite public code, the platform was centralized at its core—because I was still the ultimate authority.
 
 This contradiction eroded my integrity. I realized that a “decentralized” project I controlled was not truly decentralized. Consequently, I shut it down, not for technical failure, but for ethical failure.
 
 Over time, I comprehended the true essence: a decentralized platform is not something you own; it is something you release. As the creator, your role is that of a facilitator. Once the code is on the blockchain, the platform becomes its own organism; you are merely another node operator and user.
 
-#**Governance by the People: A Framework for Decentralized Social Media:**
+**Governance by the People: A Framework for Decentralized Social Media:**
 
 To achieve genuine decentralization, governance must originate from the community:
 
